@@ -1,3 +1,6 @@
+[![Banner](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Bawwaz (also know as batman & ryan gosling)</h1>
 <h3 align="center">A determined student on its way of being a Frontend Flutter developer</h3>
 
