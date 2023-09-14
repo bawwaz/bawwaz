@@ -1,4 +1,3 @@
-[![Banner](https://giphy.com/gifs/TheBatman-batman-warner-bros-the-I0ZIcLxQLivC8ByyXv)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Bawwaz (also know as batman & ryan gosling)</h1>
