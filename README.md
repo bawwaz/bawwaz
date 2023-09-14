@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bawwaz (also know as batman & ryan gosling)</h1>
 <h3 align="center">A determined student on its way of being a Frontend Flutter developer</h3>
 
-(img align="right" alt="him" width="400" src="https://giphy.com/embed/esNcJ0d8A5MfVwIjwu")
+<img align="right" alt="him" width="400" src="https://giphy.com/embed/esNcJ0d8A5MfVwIjwu">
 
 - 🔭 I’m currently working on **My final application for school**
 
