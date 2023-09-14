@@ -1,7 +1,12 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAJzKEGRH_5Ee025AosXKEtgz_Bo-6PQyuHoDivM-BvhqulMkb4Y87rslpWG8hhOqeWs&usqp=CAU)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Bawwaz (also know as batman & ryan gosling)</h1>
 <h3 align="center">A determined student on its way of being a Frontend Flutter developer</h3>
+
+<img align="right" alt="Coding" width="320" height="300" src="https://64.media.tumblr.com/edd9f5773cae363cbe82cc36b8bafa0f/09c496526c70c824-a2/s540x810/110980675cd4db408c09312fae9c553a95b9cbea.gif">
+
+
 
 
 - 🔭 I’m currently working on **My final application for school**
