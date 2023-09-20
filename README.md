@@ -1,7 +1,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAJzKEGRH_5Ee025AosXKEtgz_Bo-6PQyuHoDivM-BvhqulMkb4Y87rslpWG8hhOqeWs&usqp=CAU" alt="MasterHead" width="1000" height="200">
 
 
-<h1 align="center">Hi 👋, I'm Bawwaz (also know as batman & ryan gosling)</h1>
+<h1 align="center"> I'm Bawwaz (also know as batman & ryan gosling)</h1>
 <h3 align="center">A determined student on its way of being a Frontend Flutter developer</h3>
 
 
