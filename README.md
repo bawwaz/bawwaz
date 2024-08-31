@@ -9,11 +9,11 @@
 
 
 
-- 🔭 I’m currently working on **My final application for school**
+- 🔭 I’m currently working on **an Ecomerce app named SeatuErsih**
 
-- 🌱 I’m currently learning **Routing, State management**
+- 🌱 I’m currently learning **Fetch API and implement Logic**
 
-- 🤝 I’m looking for help with **Getting a hold of my life**
+- 🤝 I’m looking for help with **Getting new app experience**
 
 - 📫 How to reach me **fawwaztr231@gmail.com**
 
